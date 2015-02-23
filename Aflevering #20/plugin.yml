@@ -1,0 +1,14 @@
+name: YoutubeTutorial
+version: 1.0
+main: tuts.Tutorial
+description: a plugin for youtube
+
+commands:
+  message:
+    description: Sends a message
+  money:
+    description: Gives you money
+  addmoney:
+    description: Gives you money
+  item:
+    description: Gives you money
