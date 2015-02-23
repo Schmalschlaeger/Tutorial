@@ -1,0 +1,10 @@
+name: YoutubeTutorial
+version: 1.0
+main: tuts.Tutorial
+description: a plugin for youtube
+
+commands:
+  mute:
+    description: Sends a message
+  unmute:
+    description: Gives you money
