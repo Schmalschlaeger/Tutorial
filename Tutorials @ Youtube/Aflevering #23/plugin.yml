@@ -1,0 +1,4 @@
+name: YoutubeTutorial
+version: 1.0
+main: tuts.Tutorial
+description: a plugin for youtube
