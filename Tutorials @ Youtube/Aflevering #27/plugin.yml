@@ -1,0 +1,14 @@
+name: Youtube
+version: 0.1
+main: tuts.Tutorial
+description: A tutorial for youtube
+
+commands:
+  warp:
+    description: SudoAlias management command
+    aliases: [w]
+  createwarp:
+    description: SudoAlias management command
+    aliases: [cw]
+  warps:
+    description: SudoAlias management command
