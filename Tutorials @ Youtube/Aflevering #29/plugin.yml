@@ -1,0 +1,12 @@
+name: Youtube
+version: 0.1
+main: tuts.Tutorial
+description: A tutorial for youtube
+
+commands:
+  chatclear:
+    description: SudoAlias management command
+  chatenable:
+    description: SudoAlias management command
+  chatdisable:
+    description: SudoAlias management command
