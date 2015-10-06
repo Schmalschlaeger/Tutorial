@@ -1,0 +1,16 @@
+name: Youtube
+version: 0.1
+main: tuts.Tutorial
+description: A tutorial for youtube
+
+commands:
+  preload:
+    description: A nice command
+  restart:
+    description: A nice command
+    
+permissions:
+  reload.acces:
+    description: A nice permisisons
+  reload.command:
+    description: A nice permisisons
