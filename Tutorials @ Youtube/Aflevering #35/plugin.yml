@@ -1,0 +1,11 @@
+name: Youtube
+version: 0.1
+main: tuts.Main
+description: A tutorial for youtube
+
+commands:
+  gamemode:
+    description: Sets your gamemode
+    aliases: [gm]
+  fly:
+    description: Sets your fly
