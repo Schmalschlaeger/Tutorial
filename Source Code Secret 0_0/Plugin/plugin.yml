@@ -1,0 +1,4 @@
+name: TpToSpawn
+version: 0.1
+main: TpSpawn.spawn
+description: tp to spawn on join

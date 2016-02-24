@@ -1,0 +1,4 @@
+name: POP
+version: 0.1
+main: pop.pop
+description: Pops a player

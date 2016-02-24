@@ -1,0 +1,9 @@
+name: ZombieSurvival
+version: 0.1
+main: zombie.Main
+description: ZombieSurvival Minigame
+
+commands:
+  zombie:
+    description: ZombieSurvival CommandS
+    aliases: [z]

@@ -1,0 +1,18 @@
+##########################################
+#                                        #
+#       JumpPads plugin Config!          #
+#           BY: jusjus112                #
+#                                        #
+##########################################
+
+Jumppad1:
+  Enable: true
+  Material: 72
+  Height: 1.0
+  Velocity: 1.5
+  
+Jumppad2:
+  Enable: false
+  Material: 70
+  Height: 1.0
+  Velocity: 1.5

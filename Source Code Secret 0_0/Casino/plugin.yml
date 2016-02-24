@@ -1,0 +1,5 @@
+name: Casino
+main: main.Main
+version: 1.0.0
+description: Casino Plugin
+depend: [Vault, Chairs]

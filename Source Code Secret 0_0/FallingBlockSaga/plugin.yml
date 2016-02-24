@@ -1,0 +1,10 @@
+name: Falling Blocks
+version: 1.0.5
+main: jusjus.fallingblock.Main
+description: Plugin for networking of blocks!
+
+commands:
+  fallingblock:
+    description: Spawn an fallingblock!
+  block:
+    description: Spawn an block!

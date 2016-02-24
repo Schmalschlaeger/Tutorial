@@ -1,0 +1,8 @@
+name: EventsPlugin
+version: 0.1
+main: eventspl.events
+description: Plugin to make events!
+
+commands:
+  event:
+    description: Joins an event!

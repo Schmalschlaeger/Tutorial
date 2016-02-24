@@ -1,0 +1,10 @@
+name: Demaciacraft
+version: 1.0
+main: server.Main
+description: a plugin for demaciacraft
+
+commands:
+    achievements:
+        description: Spawn a balloon
+    infobot:
+        description: Spawn a balloon

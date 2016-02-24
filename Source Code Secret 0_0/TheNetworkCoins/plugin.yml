@@ -1,0 +1,8 @@
+name: TheNetworkCoins
+version: 0.1
+main: coins.jusjus.Main
+description: a plugin for TheNetwork
+
+commands:
+  test:
+    description: A test command

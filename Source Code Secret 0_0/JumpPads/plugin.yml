@@ -1,0 +1,4 @@
+name: JumpPads
+version: 0.1
+main: LaunchPad.launchpad
+description: Launch you far away

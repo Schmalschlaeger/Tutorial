@@ -1,0 +1,16 @@
+name: HubCommand
+version: 1.0
+main: hubcommand.Main
+description: Enjoy your ride to your hub
+
+commands:
+  hub:
+    description: Go to your hub
+  hubcommandreload:
+    description: Reloads the config
+    
+permissions:
+  hub.comnmand:
+    description: Perms for the hub command
+  hub.reload:
+    description: Perms for the reload command

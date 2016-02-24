@@ -1,0 +1,8 @@
+name: LMSminigame
+main: Main.MPMGMain
+version: 0.1
+description: LMS Minigame
+
+commands:
+  setspawn:
+    description: lol

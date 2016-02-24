@@ -1,0 +1,21 @@
+name: PhantasiaCraft
+version: 1.0.5
+main: me.jusjus.src.magicsaga.Main
+description: Plugin for networking!
+
+commands:
+  fallingblock:
+    description: Spawn an fallingblock!
+  block:
+    description: Spawn an block!
+  developers:
+    description: See info!
+  phantasiacraft:
+    description: See info!
+  ride:
+    description: Command to make/see rides
+  
+    
+permissions:
+  phantasia.freerun.bypass:
+    description: Perms for freerun!

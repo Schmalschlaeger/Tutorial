@@ -1,0 +1,43 @@
+name: JusSuperJump
+version: 1.0
+main: DoubleJump.doublejump
+description: A plugin that let you Jump in the air
+author: jusjus112
+
+commands:
+  doublejump:
+    description: Info about the plugin!
+    aliases: [dj]
+
+permissions:
+  dj.*:
+    description: Gives access to all DoubleJump commands!
+    children:
+      dj.help: true
+      dj.reload: true
+      dj.remove: true
+      dj.jumper: true
+      dj.toggle: true
+      dj.jump: true
+  dj.potions:
+    description: Gives access to all DoubleJump Effects!
+    children:
+      dj.jump: true    
+  dj.help:
+    description: perms for the help page
+  dj.reload:
+    description: perms for the reload command
+  dj.remove:
+    description: perms for the remove command
+  dj.jumper:
+    description: perms for DoubleJump
+  dj.toggle:
+    description: perms for toggle the jump
+  dj.regen:
+    description: perms for the regen effect
+  dj.blindness:
+    description: perms for blindess effect
+  dj.speed:
+    description: perms for the speed effect
+  dj.jump:
+    description: perms for the jump effect

@@ -1,0 +1,7 @@
+name: RealFFA
+main: RealPVPGame.Main
+version: 1.0
+description: A FFA gamemode created for RealPVP
+author: JusJusGames
+website: www.youtube.com/user/jusjuscrafti
+prefix: [RealFFA]

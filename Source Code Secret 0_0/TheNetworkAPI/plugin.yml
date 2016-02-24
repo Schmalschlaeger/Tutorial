@@ -1,0 +1,8 @@
+name: TheNetworkAPI
+version: 0.1
+main: mainp.thenetwork.MainManager
+description: a plugin for TheNetwork
+author: jusjus112
+website: http://shop.thenetwork-mc.net/
+depend [..]
+prefix: [TN-API]

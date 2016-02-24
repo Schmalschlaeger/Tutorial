@@ -1,0 +1,8 @@
+name: TheNetworkEvents
+version: 0.1
+main: TNEvent.Events
+description: a plugin for TheNetwork
+
+commands:
+  event:
+    description: starts an event

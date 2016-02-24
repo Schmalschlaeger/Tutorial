@@ -1,0 +1,18 @@
+##########################################
+#                                        #
+#      KickAndBan plugin Config!         #
+#           BY: jusjus112                #
+#                                        #
+##########################################
+
+#Use this when the player is kicked/banned and cant join your server! Like "&c You are banned!"
+banMessage: '&cYou are banned by an admin!'
+kickMessage" '&cYou have been kicked by {player}'
+
+#Use this message ingame when the player is online and you kick him!
+kickIngameMessage: '&6Player {player} was banned by {banner}'
+kickIngameReason: '&6Reason: -- {reason}'
+
+#Use this message ingame when the player is online and you ban him!
+banIngameMessage: '&6Player {player} was banned by {banner}'
+banIngameReason: '&6Reason: -- {reason}'

@@ -1,0 +1,48 @@
+name: LobbyHub
+version: 0.2
+main: lobbyhub.Main
+description: LobbyHub Plugin for Big Servers
+author: jusjus112
+
+commands:
+  lobbyhub:
+    description: LobbyHub Command
+    aliases: [lh]
+  hub:
+    description: Teleport to the hub
+  lobby:
+    description: Teleport to the lobby
+  sethub:
+    description: Teleport to the lobby
+    
+permissions:
+  lh.admin:
+    description: Gives access to all LobbyHub commands!
+    children:
+      lh.sethub: true
+      lh.createlobby: true
+      lh.removelobby: true
+      lh.lobby: true
+      lh.hub: true
+      lh.reload: true
+      lh.list: true
+  lh.user:
+    description: Gives access to the hub and lobby command!
+    children:
+      lh.hub: true
+      lh.lobby: true
+            
+  lh.sethub:
+    description: perms for the sethub command
+  lh.createlobby:
+    description: perms for the createlobby command
+  lh.list:
+    description: perms for the list of lobbys
+  lh.removelobby:
+    description: perms for the removelobby command
+  lh.lobby:
+    description: perms for the lobby command
+  lh.hub:
+    description: perms for the hub commands
+  lh.reload:
+    description: Perms for the reload command

@@ -1,0 +1,19 @@
+***************************************************************************
+*                                                                         *
+*                                                                         *
+*                RealFFA Plugin created by: jusjus112                     *
+*               Change anything you want in this config                   *
+*                       Copyright: JusJusGames                            *
+*                                                                         *
+*                                                                         *
+***************************************************************************
+
+#Your world name, as set in the server.properties
+worldName: world
+
+#Put here your lobby server, as set in the bungeecoord configuration!
+BungeeLobbyServer: lobby
+
+#Change here the settings, extra and fun stuff for your plugin!
+settings:
+  healOnKill: yes

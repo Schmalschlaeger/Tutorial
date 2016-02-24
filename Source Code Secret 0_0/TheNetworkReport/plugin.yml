@@ -1,0 +1,12 @@
+name: TheNetworkReport
+version: 0.1
+main: me.jusjus112.Main
+description: a plugin for TheNetwork
+
+commands:
+  report:
+    description: Reports a player
+    
+permissions:
+  network.rank.owner:
+    description: Get owner rank

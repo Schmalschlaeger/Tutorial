@@ -1,0 +1,8 @@
+name: SchockBytePl
+main: me.jusjus112.sb.Main
+version: 0.1
+description: Accounts saver
+
+commands:
+  register:
+    description: lol

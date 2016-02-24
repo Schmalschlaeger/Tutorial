@@ -1,0 +1,20 @@
+##########################################
+#                                        #
+#       LobbyHub plugin! Config!         #
+#                                        #
+##########################################
+
+#Choose for true or false to enable /hub
+enablehub: true
+
+#Choose for true or false to enable /lobby
+enablelobby: true
+
+#The delay in seconds to teleport to the hub
+hubdelay: 0
+
+#Customize here your own prefix
+prefix: '&2[LobbyHub]'
+
+#Choose if you want to respawn to the hub after you die
+hubrespawn: true

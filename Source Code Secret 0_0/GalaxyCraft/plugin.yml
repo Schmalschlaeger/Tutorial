@@ -1,0 +1,4 @@
+name: FeneticPL
+version: 0.1
+main: gc.Main
+description: Suite of warping commands!

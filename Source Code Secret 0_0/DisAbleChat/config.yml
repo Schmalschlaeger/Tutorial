@@ -1,0 +1,21 @@
+##########################################
+#                                        #
+#      DisableChat plugin Config!        #
+#           BY: jusjus112                #
+#                                        #
+##########################################
+
+#IMPORTANT! = You can use {player} in each string line!
+
+#Edit your message if you disable your chat
+disableMessage: '&8[&1!&8] &6Chat Disabled! Only staff can talk now'
+
+#Edit your message if you enable your chat
+enableMessage: '&8[&1!&8] &6Chat enabled! You can talk now' 
+
+#Edit your message if you clear the chat
+clearMessage: '&8[&1!&8] &cChat was cleared by {player}!'
+
+#If true, the plugin wil send a message if the chat is disabled and the player is talking
+sendMessage: true
+message: '&cYou cant talk right now!'

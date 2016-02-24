@@ -1,0 +1,33 @@
+name: TheNetworkSurvival
+version: 0.1
+main: TWS.Main
+description: a plugin for TheNetwork
+depend: [Factions]
+
+commands:
+  zombie:
+    description: spawn a zombie
+  user:
+    description: Info about a player
+  hub:
+    description: Goes to the hub
+  event:
+    description: Starts an event
+  vip:
+    description: Starts a trail for a vip
+  shop:
+    description: Opens the shoppie
+  ragequit:
+    description: ragequit the server
+  mainon:
+    description: Set the maintenance
+  mainoff:
+    description: Set the maintenance
+    
+permissions:
+  network.owner:
+    description: Perms for owner
+  network.builder:
+    description: Perms for builder
+  network.rank.vip:
+    description: Perms for builder

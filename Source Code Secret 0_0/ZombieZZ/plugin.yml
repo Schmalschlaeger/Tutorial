@@ -1,0 +1,4 @@
+name: zombieRanks
+version: 0.1
+main: zombiezz.TestInventory
+description: Suite of warping commands!

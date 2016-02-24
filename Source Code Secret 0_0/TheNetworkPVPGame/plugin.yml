@@ -1,0 +1,10 @@
+name: TheNetworkPVPGame
+version: 0.1
+main: PVPGame.Main
+description: a plugin for TheNetwork
+
+commands:
+  game:
+    description: Starts the game!
+  lobby:
+    description: goes to the lobby

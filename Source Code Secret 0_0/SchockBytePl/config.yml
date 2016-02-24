@@ -1,0 +1,25 @@
+#############################################
+#                                           #
+#                                           #
+#            Registratie plugin             #
+#            Made by: jusjus112             #
+#                                           #
+#                                           #
+#############################################
+
+#Jouw eigen email, om een email te verzende
+#LET OP: Alleen gmail, yohoo kun je gebruiken. NIETS ANDERS!
+Email: 'schockbyteservice@gmail.com'
+
+#Het wachtwoord om in te kunnen loggen in je email, zorg er wel voor dat je toegang krijgt met je email.
+Password: 'ditiseenwachtwoord'
+
+#Dit is de naam van wie de ontvanger de email krijgt
+TerNaamVan: 'SchockByte Service'
+
+#Hier zet je het onderwerp van de email die wordt weergeven bij de ontvanger
+EmailOnderwerp: 'Bevestiging acount'
+
+#Gebruik {code} om de code te genereren, en {player} om de player zijn naam te gebruiken. GEEN, kleuren gebruiken. dit is html, geen java.
+#Trouwens wil je naar de volgende rij, gebruik \n
+EmailText: 'Hello, {player} \nWelcome to this server. You have to register ingame with /register remail <email>, you have completed the mission to do that. now copy the code and paste him in minecraft. When the server is asking you for your code, use the code below this long text. \nCODE: {code} \nYour Info: \nIngame Name: {player}'

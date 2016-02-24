@@ -1,0 +1,5 @@
+name: ThemeParkPlugin
+version: 0.5
+main: Pretpark.Kits
+description: a plugin for ThemePark
+depend: [Vault]

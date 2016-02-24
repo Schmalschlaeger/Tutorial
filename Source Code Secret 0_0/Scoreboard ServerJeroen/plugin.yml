@@ -1,0 +1,8 @@
+name: InfectionPL
+main: jeroen.server.Main
+version: 0.1
+description: Wat kijk je hier!
+
+commands:
+  ico:
+    description: Economy plugin

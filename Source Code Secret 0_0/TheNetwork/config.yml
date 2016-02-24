@@ -1,0 +1,5 @@
+maintenance_on: false
+maintenance_kickmessage: 'We working on The-Network! Come back later!'
+maintenance_motd: '&3The-Network ---- &4Maintenance &cBack soon'
+normal_motd: '&cThe-Network'
+ipbanned_motd: '&cThe-Network &4You are Banned! Dont try to join! Its usseluss'

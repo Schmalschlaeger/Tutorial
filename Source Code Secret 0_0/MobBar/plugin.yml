@@ -1,0 +1,8 @@
+name: MobBar
+version: 0.1
+main: Mob.bossbar
+description: Suite of warping commands!
+
+commands:
+  bossbar:
+    description: Reload

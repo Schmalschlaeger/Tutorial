@@ -1,0 +1,57 @@
+name: TheNetwork
+version: 0.1
+main: hubpl.Hub
+description: a plugin for TheNetwork
+
+commands:
+  sethub:
+    description: tp to hub
+  fly:
+    description: tp to hub
+  gamemode:
+    description: tp to hub
+    aliases: [gm]
+  trail:
+    description: tp to hub
+    aliases: [tr]
+  hub:
+    description: tp to hub
+    aliases: [h]
+  speed:
+    description: tp to hub
+    aliases: [sp]
+  items:
+    description: tp to hub
+    aliases: [it]
+  network:
+    description: network command
+  maintenance:
+    description: network command
+    
+permissions:
+  network.owner:
+    description: Perms for the owner prefixes
+  maintenance.bypass:
+    description: Perms for maintenance
+  network.vip:
+    description: Perms for the owner prefixes
+  network.youtube:
+    description: Perms for the owner prefixes
+  network.bouwer:
+    description: Perms for the owner prefixes
+  network.admin:
+    description: Perms for the owner prefixes
+  network.join:
+    description: PErms for login
+  network.trail:
+    description: PErms for login
+  network.speed:
+    description: PErms for login
+  network.hub:
+    description: PErms for login
+  network.items:
+    description: PErms for login
+  network.bouw:
+    description: PErms for login
+  network.*:
+    description: PErms for login

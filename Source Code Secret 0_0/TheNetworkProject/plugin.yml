@@ -1,0 +1,106 @@
+name: TheNetwork
+version: 0.1
+main: TN.Main
+description: a plugin for TheNetwork
+
+commands:
+  chatenable:
+    description: enables chat
+  chatdisable:
+    description: disables chat
+  chatclear:
+    description: clears the chat
+  ban:
+    description: Ban <player> with [message]
+  kick:
+    description: Kick <player> with [message]
+  unban:
+    description: unban <player> 
+  lobby:
+    description: go to a lobby
+  removelobby:
+    description: removes a lobby
+  listlobby:
+    description: list of all the lobbys
+  createlobby:
+    description: create a lobby
+  firework:
+    description: spawns firework
+  alwaysday:
+    description: spawns firework
+    
+permissions:
+  network.*:
+    children:
+      network.rank.owner: true
+      network.block.bypass: true
+      network.kick: true
+      network.ban: true
+      network.unban: true
+      network.chat.enable: true
+      network.chat.disable: true
+      network.chat.bypass: true
+      network.chat.clear: true
+      network.teleport.createlobby: true
+      network.teleport.lobby: true
+      network.teleport.list: true
+      network.teleport.removelobby: true
+      network.effect.fire: true
+      network.effect.cloud: true
+  network.effect.pack1:
+    children:
+      network.effect.fire: true
+      network.effect.cloud: true
+      network.effect.firework: true
+      network.effect.hearth: true
+      network.effect.slime: true
+  network.effect.firework:
+    description: Get Fire effect
+  network.effect.slime:
+    description: Get Fire effect
+  network.effect.hearth:
+    description: Get Fire effect
+  network.effect.fire:
+    description: Get Fire effect
+  network.effect.cloud:
+    description: Get Cloud Effect
+  network.join.bypass:
+    description: Bypass the join shitt
+  network.block.bypass:
+    description: Bypass the block shitt
+  network.kick:
+    description: Kicks an person
+  network.ban:
+    description: Bans an person
+  network.unban:    
+    description: Unbans an person
+  network.chat.enable:
+    description: enable chat
+  network.chat.disable:
+    description: enable chat
+  network.chat.bypass:
+    description: enable chat
+  network.chat.clear:
+    description: enable chat
+  network.teleport.createlobby:
+    description: enable chat
+  network.teleport.lobby:
+    description: enable chat
+  network.teleport.list:
+    description: enable chat    
+  network.teleport.removelobby:
+    description: enable chat  
+  network.rank.owner:
+    description: Get owner rank
+  network.rank.builder:
+    description: Get builder rank
+  network.rank.vip:
+    description: Get vip rank
+  network.rank.hydra:
+    description: Get legend rank
+  network.rank.support:
+    description: Get support rank
+  network.rank.moderator:
+    description: Get mod rank
+  network.rank.champion:
+    description: Get mod rank

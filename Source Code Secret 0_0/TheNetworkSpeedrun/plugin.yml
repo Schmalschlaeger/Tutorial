@@ -1,0 +1,27 @@
+name: SpeedRun
+version: 0.1
+main: speedrun.Main
+description: SpeedRun for the-network
+
+commands:
+  hub:
+    Description: Connect to the hub server
+    aliases: [lobby]
+  youtube: 
+    Description: Play with youtube
+    aliases: [yt]
+  settings:
+    Description: Use if a map is defect
+    aliases: [setting]
+  mainon:
+    Description: Sets the maintenance
+  mainoff:
+    Description: Sets the maintenance
+    
+    
+permissions:
+  network.*:
+    children:
+      network.rank.owner: true
+  network.effect.firework:
+    description: Get the mod rank

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/PlayerPoints.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/BKCommonLib-1.57.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/craftbukktit 1.7.2 RO.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/ProtocolLib-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/Money.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gebruiker/Desktop/Eclipse/Bukkit jars/EffectLib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

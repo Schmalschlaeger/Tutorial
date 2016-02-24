@@ -1,0 +1,10 @@
+##########################################
+#                                        #
+#       HubCommand plugin Config!        #
+#           BY: jusjus112                #
+#                                        #
+##########################################
+
+#Put here your server name! Exactly as your lobby server in the bungeecord config!
+#If this server is not on your bungee config! IT WONT WORK!
+server: 'lobby'

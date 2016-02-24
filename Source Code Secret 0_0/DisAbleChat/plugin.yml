@@ -1,0 +1,24 @@
+name: ChatDisable
+author: jusjus112
+version: 1.5.0
+main: disable.Chat
+
+commands:
+  chatenable:
+    description: enables chat
+  chatdisable:
+    description: disables chat
+  chatclear:
+    description: clears the chat
+  chatreload:
+    description: reloads the plugin
+ 
+permissions:
+  chat.reload:
+    description: Perms for reload command
+  chat.enable:
+    description: Perms for enable command
+  chat.disable:
+    description: Perms for disable command
+  chat.clear:
+    description: Perms for clear command

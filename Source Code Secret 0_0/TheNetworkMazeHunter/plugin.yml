@@ -1,0 +1,4 @@
+name: TN-MazeHunter
+version: 0.1
+main: mazehunter.MazeHunter
+description: The orginal and official minigame maze-hunter

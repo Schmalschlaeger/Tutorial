@@ -1,0 +1,8 @@
+name: TheNetworkRagequit
+version: 0.1
+main: Main.command.Main
+description: a plugin for TheNetwork
+
+commands:
+  ragequit:
+    description: ragequit the server

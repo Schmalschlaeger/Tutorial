@@ -1,0 +1,15 @@
+name: TheNetworkSurvivalOrder
+version: 0.1
+main: shop.Shop
+description: a plugin for TheNetwork
+depend: [Vault]
+
+commands:
+  shop:
+    description: use the shop
+  vip:
+    description: use the trail
+  hub:
+    description: go to the hub
+  event:
+    description: Start an event

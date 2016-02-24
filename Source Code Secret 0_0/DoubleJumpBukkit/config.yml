@@ -1,0 +1,26 @@
+##########################################
+#                                        #
+#     JusSuperJump plugin! Config!       #
+#                                        #
+##########################################
+
+#The doublejump message, edit the message if the players jumps!
+#Leave empty to disable the message!
+message: '&6Wooossh'
+
+#The lenght for how far the player can jump! use only numbers!
+jumplenght: 1
+
+#The height how high the player can jump! Use only double 0.0/2.0
+jumpheight: 1.0
+
+#The doublejump delay in seconds! Use this for how long the players must wait before they can jump again!
+jumpdelay: 2
+
+#Disable or enable the xp-bar
+jumpwithxp: false
+
+#Disable the plugin in the following worlds
+disabledWorlds:
+- world_nether
+- world_the_end

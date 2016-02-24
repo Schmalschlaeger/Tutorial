@@ -1,0 +1,8 @@
+name: HelloWorld
+version: 0.1
+main: Hello.helloworld
+description: HellowWorld Plugin
+
+commands:
+  hello:
+    description: Sends hello back!

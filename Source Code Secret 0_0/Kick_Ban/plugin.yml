@@ -1,0 +1,20 @@
+name: Kick And Ban
+version: 1.0
+main: Kick_ban.Kick_Ban
+description: Ban and Kick
+ 
+commands:
+  ban:
+    description: Ban <player> with [message]
+  kick:
+    description: Kick <player> with [message]
+  unban:
+    description: unban <player> 
+      
+permissions:
+  network.kick:
+    description: Kicks an person
+  network.ban:
+    description: Bans an person
+  network.unban:    
+    description: Unbans an person

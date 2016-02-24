@@ -1,0 +1,44 @@
+name: DemaciaEssentials
+main: simple.essentials.Main
+version: 0.1
+description: Simple essentials for bukkit!
+
+commands:
+  gamemode:
+    description: Sets your gamemode
+    aliases: [gm]
+  fly:
+    description: Sets your fly
+  kick:
+    description: Kick a player
+  tp:
+    description: Teleport
+  ban:
+    description: Ban a player
+  unban:
+    description: Unban a player
+  help:
+    description: Unban a player
+  day:
+    description: Set it to day
+  sun:
+    description: Set it to day
+  killall:
+    description: Killall enitities
+  night:
+    description: Set it to night
+  warp:
+    description: Warp regular command
+  heal:
+    description: Heal yourself or a player!
+  feed:
+    description: Feed yourself or a player!
+  createwarp:
+    description: Create a warp
+  msg:
+    description: Create a warp
+  watch:
+    description: Create a warp
+  teleportall:
+    description: Teleport everyone on your server on your location!
+    aliases: [tpall]

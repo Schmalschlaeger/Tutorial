@@ -1,0 +1,82 @@
+name: Magic-Saga
+version: 0.1
+main: scoreboard.Main
+description: a plugin for Magic Saga
+depend: [PlayerPoints, BKCommonLib]
+
+commands:
+  setmagicspawn:
+    description: Lol
+  ride:
+    description: lol
+  watershow:
+    description: lol
+  shoot:
+    description: Duhh
+  checklist:
+    description: Duhh
+  show:
+    description: Duhh
+  balloon:
+    description: Duhh
+  hide:
+    description: Duhh
+  status:
+    description: Duhh
+  maintenance:
+    description: Duhh
+    aliases: [mt]
+  fallingblock:
+    description: duhh
+  omroep:
+    description: duhh
+  block:
+    description: duhh
+  texturepack:
+    description: duhh
+  gunshop:
+    description: duhh
+    
+permissions:
+  magic.*:
+    description: Gives access to all magic commands!
+    children:
+      magic.ride: true
+      magic.ride.add: true
+      magic.ride.remove: true
+      magic.ride.open: true
+      magic.ride.close: true
+      magic.setspawn: true
+      magic.watershow: true
+      magic.freerun.bypass: true
+      magic.inventory.clear: true
+  magic.player:
+    description: Gives access to all magic commands!
+    children:
+      magic.ride: true
+  magic.staff:
+    description: Gives access to all magic commands!
+    children:
+      magic.ride: true
+      magic.inventory.clear: true
+            
+  magic.ride:
+    description: Duhh...
+  magic.inventory.clear:
+    description: duhh
+  magic.ride.add:
+    description: Duhh...
+  magic.ride.remove:
+    description: Duhh...
+  magic.ride.open:
+    description: Duhh...
+  magic.ride.close:
+    description: Duhh...
+  magic.setspawn:
+    description: Duhh...
+  magic.watershow:
+    description: Duhh...
+  magic.freerun.bypass:
+    description: Duhh...
+  magic.status:
+    description: Duhh...

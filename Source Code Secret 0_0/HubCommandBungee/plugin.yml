@@ -1,0 +1,4 @@
+name: HubCommand
+version: 1.0
+main: hubcommand.Main
+description: Enjoy your ride to your hub
